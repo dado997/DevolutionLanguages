@@ -1,0 +1,66 @@
+GUI_PREVIOUS: Previous
+GUI_PREVIOUS_LORE: Go to previous page.
+GUI_NEXT: Next
+GUI_NEXT_LORE: Go to next page.
+GUI_SEARCH: Search
+GUI_SEARCH_LORE: Click to search.
+GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
+GUI_ADD: Add
+GUI_ADD_SPAWNPOINT_LORE: Add a new spawnpoint.
+GUI_CREATE: Create
+GUI_CREATE_ARENA_LORE: Create a new arena.
+GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
+GUI_BACK: Back
+GUI_MINIMUM_PLAYERS: §7Minimum players
+GUI_MINIMUM_PLAYERS_LORE: Minimum players for the game, this value cannot be larger
+  than the maximum players.
+GUI_MAXIMUM_PLAYERS: §7Maximum players
+GUI_MAXIMUM_PLAYERS_LORE: Maximum players in the game, this value cannot be inferior
+  to the minimum players required.
+GUI_CLICK_TO_SET_LOBBY: §aLeft click to set the waiting lobby for the arena
+GUI_SPAWNPOINTS_LORE: §aClick to set and modify the spawnpoints!
+GUI_SPAWNPOINTS_LORE_2: §eIT IS RECOMMENDED TO SET AS MANY SPAWN POINTS AS HOW MANY
+  PLAYERS WILL PLAY!
+GUI_CLICK_TO_SET_DEVOLUTION_LOC: §aLeft click to set the location where players will
+  devolute
+GUI_CLICK_TO_TELEPORT: §aRight click to teleport
+GUI_CLICK_TELEPORT_MODIFY: §aLeft click to teleport and modify the spawnPoints
+GUI_RIGHTCLICK_REMOVE: §cRight click to remove
+GUI_DEVSTATES_LORE: §aManage the forms which in the players will devolute into
+YOU_LEFT: §cYou left the arena.
+PLAYER_LEFT: §cPlayer §7%player% §cleft the arena.
+PLAYER_DIED: §cPlayer %player% died!
+RESPAWNING_IN: §aYou'll respawn in §7%seconds%
+ABILITY_USED: §aYou used your abilty!
+ABILITY_READY: §aYour ability has recharged and can be used!
+SNEAK_TO_DEVOLUTE: §aHold crunch to devolute
+ABILITY_NOT_READY: §cYou ability isn't ready to use!
+RESPAWNED: §aYou respawned!
+YOU_JOINED_ARENA: §6You joined the arena
+PLAYER_JOINED_ARENA: §6Player %player% joined the arena. §e(%playersJoined%/%playersRequired%)
+PLAYER_WON: §aPlayer §7%player% §aWon!
+ARENA_ALREADY_EXISTS: §cAn arena with this name already exists!
+CREATED_ARENA: §aSuccessfully created the arena §e%arena%
+ARENA_STARTS_IN: §6Arena starts in %time% seconds
+ARENA_FULL: §cArena has already reached player limit!
+ARENA_STARTED: §aArena started! Have fun!
+ARENA_DOESNT_EXISTS: §cAn arena with this name doesn't exists!
+ARENA_GLOBAL_LOBBY_MISSING: §cThe plugin doesn't have a global lobby. Use /devoluton
+  setGlobalLobby to set it.
+ARENA_LOBBY_MISSING: §cThe arena doesn't have a waiting lobby. Open the gui and finish
+  setting up the arena.
+ARENA_SPAWNPOINT_MISSING: §cThe arena doesn't have a spawnpoint. Open the gui and
+  finish setting up the arena.
+ARENA_DEVPOINT_MISSING: §cThe arena doesn't have a devolution point. Open the gui
+  and finish setting up the arena.
+NOT_IN_ARENA: §cYou aren't in any arena!
+LOBBY_SET: §aLobby has been set successfully!
+ALREADY_IN_ARENA: §cYou are already in game!
+ARENA_RUNNING: §cThe arena is already started! You'll be able to join when its finished.
+REMOVED_ARENA: §aSuccessfully removed the arena §e%arena%
+NO_PERMISSION: §cYou don't have permission to perform this action!
+PLUGIN_RELOADED: §aPlugin reloaded successfully!
+COMMAND_INVALID_ARGS: §cInvalid Arguments!
+COMMAND_NOTFOUND: §cCommand not found!
+COMMAND_HINT_HELP: §7Type in chat /bossmania help to see all commands.
+INVALID_NUMBER: §cInvalid number!
