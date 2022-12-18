@@ -1,9 +1,13 @@
-GUI_PREVIOUS: Previous
-GUI_PREVIOUS_LORE: Go to previous page.
-GUI_NEXT: Next
-GUI_NEXT_LORE: Go to next page.
-GUI_SEARCH: Search
-GUI_SEARCH_LORE: Click to search.
+GUI_PREVIOUS: Indietro
+GUI_PREVIOUS_LORE: Vai alla pagina precedente.
+GUI_NEXT: Avanti
+GUI_NEXT_LORE: Vai alla prossima pagina.
+GUI_SEARCH: Cerca
+GUI_SEARCH_LORE: Clicca per cercare
+GUI_CONFIRM: Conferma
+GUI_CONFIRM_LORE: §7Clicca per confermare.
+GUI_ABORT: Annulla
+GUI_ABORT_LORE: §7Clicca per annullare.
 GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
 GUI_ADD: Add
 GUI_ADD_SPAWNPOINT_LORE: Add a new spawnpoint.
@@ -63,4 +67,4 @@ PLUGIN_RELOADED: §aPlugin reloaded successfully!
 COMMAND_INVALID_ARGS: §cInvalid Arguments!
 COMMAND_NOTFOUND: §cCommand not found!
 COMMAND_HINT_HELP: §7Type in chat /devolution help to see all commands.
-INVALID_NUMBER: §cInvalid number!
+INVALID_NUMBER: §cNumero non valido
