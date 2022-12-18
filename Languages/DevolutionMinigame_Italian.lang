@@ -8,19 +8,17 @@ GUI_CONFIRM: Conferma
 GUI_CONFIRM_LORE: §7Clicca per confermare.
 GUI_ABORT: Annulla
 GUI_ABORT_LORE: §7Clicca per annullare.
-GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
-GUI_ADD: Add
-GUI_ADD_SPAWNPOINT_LORE: Add a new spawnpoint.
-GUI_CREATE: Create
-GUI_CREATE_ARENA_LORE: Create a new arena.
+GUI_INVALID_NAME: §cNome non valido! Non puoi usare caratteri speciali nel nome.
+GUI_ADD: Aggiungi
+GUI_ADD_SPAWNPOINT_LORE: Aggiungi uno spawnpoint.
+GUI_CREATE: Crea
+GUI_CREATE_ARENA_LORE: Crea una nuova arena.
 GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
 GUI_BACK: Back
-GUI_MINIMUM_PLAYERS: §7Minimum players
-GUI_MINIMUM_PLAYERS_LORE: Minimum players for the game, this value cannot be larger
-  than the maximum players.
-GUI_MAXIMUM_PLAYERS: §7Maximum players
-GUI_MAXIMUM_PLAYERS_LORE: Maximum players in the game, this value cannot be inferior
-  to the minimum players required.
+GUI_MINIMUM_PLAYERS: §7Giocatori minimi
+GUI_MINIMUM_PLAYERS_LORE: Giocatori minimi per l'arena, questo valore non può essere più grande dei giocatori massimi.
+GUI_MAXIMUM_PLAYERS: §7Giocatori massimi
+GUI_MAXIMUM_PLAYERS_LORE: Giocatori massimi per l'arena, questo valore non puù essere inferiore ai giocatori minimi
 GUI_CLICK_TO_SET_LOBBY: §aLeft click to set the waiting lobby for the arena
 GUI_SPAWNPOINTS_LORE: §aClick to set and modify the spawnpoints!
 GUI_SPAWNPOINTS_LORE_2: §eIT IS RECOMMENDED TO SET AS MANY SPAWN POINTS AS HOW MANY
@@ -35,10 +33,10 @@ YOU_LEFT: §cYou left the arena.
 PLAYER_LEFT: §cPlayer §7%player% §cleft the arena.
 PLAYER_DIED: §cPlayer %player% died!
 RESPAWNING_IN: §aYou'll respawn in §7%seconds%
-ABILITY_USED: §aYou used your abilty!
-ABILITY_READY: §aYour ability has recharged and can be used!
-SNEAK_TO_DEVOLUTE: §aHold crunch to devolute
-ABILITY_NOT_READY: §cYou ability isn't ready to use!
+ABILITY_USED: §aHai usato la tua abilita' speciale!
+ABILITY_READY: §aLa tua abilita' speciale si è ricaricata!
+SNEAK_TO_DEVOLUTE: §aAccovacciati per devolverti
+ABILITY_NOT_READY: §cLa tua abilità speciale non è pronta all'uso!
 RESPAWNED: §aYou respawned!
 YOU_JOINED_ARENA: §6You joined the arena
 PLAYER_JOINED_ARENA: §6Player %player% joined the arena. §e(%playersJoined%/%playersRequired%)
