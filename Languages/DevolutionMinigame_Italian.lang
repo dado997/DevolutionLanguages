@@ -13,8 +13,8 @@ GUI_ADD: Aggiungi
 GUI_ADD_SPAWNPOINT_LORE: Aggiungi uno spawnpoint.
 GUI_CREATE: Crea
 GUI_CREATE_ARENA_LORE: Crea una nuova arena.
-GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
-GUI_BACK: Back
+GUI_CLICK_TO_MANAGE: §aClick sinistro per modificare l'arena.
+GUI_BACK: Indietro
 GUI_MINIMUM_PLAYERS: §7Giocatori minimi
 GUI_MINIMUM_PLAYERS_LORE: Giocatori minimi per l'arena, questo valore non può essere più grande dei giocatori massimi.
 GUI_MAXIMUM_PLAYERS: §7Giocatori massimi
@@ -24,13 +24,13 @@ GUI_SPAWNPOINTS_LORE: §aClicca per settare i punti di spawn dell'arena!
 GUI_SPAWNPOINTS_LORE_2: §eE' CONSIGLIATO DI IMPOSTARE UN NUMERO DI SPAWNPOINTS MAGGIORE O UGUALE A QUELLO DEL NUMERO MASSIMO DI GIOCATORI DELL'ARENA.
 GUI_CLICK_TO_SET_DEVOLUTION_LOC: §aClick sinistro per impostare il luogo dove i giocatori si devolveranno.
 GUI_CLICK_TO_TELEPORT: §aClick destro per teletrasportarti
-GUI_CLICK_TELEPORT_MODIFY: §aLeft click to teleport and modify the spawnPoints
-GUI_RIGHTCLICK_REMOVE: §cRight click to remove
-GUI_DEVSTATES_LORE: §aManage the forms which in the players will devolute into
-YOU_LEFT: §cYou left the arena.
-PLAYER_LEFT: §cPlayer §7%player% §cleft the arena.
-PLAYER_DIED: §cPlayer %player% died!
-RESPAWNING_IN: §aYou'll respawn in §7%seconds%
+GUI_CLICK_TELEPORT_MODIFY: §aClick sinistro per teletrasportarti e modificare gli spawnpoint.
+GUI_RIGHTCLICK_REMOVE: §cClick destro per rimuovere
+GUI_DEVSTATES_LORE: §aModifica le forme nelle quali i giocatori si trasformeranno.
+YOU_LEFT: §cHai abbandonato la partita.
+PLAYER_LEFT: §cIl giocatore §7%player% §cHa abbandonato la partita.
+PLAYER_DIED: §cIl giocatore %player% è morto!
+RESPAWNING_IN: §aTornerai in vita in §7%seconds%
 ABILITY_USED: §aHai usato la tua abilita' speciale!
 ABILITY_READY: §aLa tua abilita' speciale si è ricaricata!
 SNEAK_TO_DEVOLUTE: §aAccovacciati per devolverti

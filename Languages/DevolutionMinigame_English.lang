@@ -4,12 +4,12 @@ GUI_NEXT: Next
 GUI_NEXT_LORE: Go to next page.
 GUI_SEARCH: Search
 GUI_SEARCH_LORE: Click to search.
-GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
+GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the arena name!
 GUI_ADD: Add
 GUI_ADD_SPAWNPOINT_LORE: Add a new spawnpoint.
 GUI_CREATE: Create
 GUI_CREATE_ARENA_LORE: Create a new arena.
-GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
+GUI_CLICK_TO_MANAGE: §aLeft click to manage arenas
 GUI_BACK: Back
 GUI_MINIMUM_PLAYERS: §7Minimum players
 GUI_MINIMUM_PLAYERS_LORE: Minimum players for the game, this value cannot be larger
