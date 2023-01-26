@@ -37,6 +37,7 @@ PLAYER_JOINED_ARENA: §6Player %player% joined the arena. §e(%playersJoined%/%p
 PLAYER_WON: §aPlayer §7%player% §aWon!
 ARENA_ALREADY_EXISTS: §cAn arena with this name already exists!
 CREATED_ARENA: §aSuccessfully created the arena §e%arena%
+ARENA_LIMIT: §cYou reached the arena limit! If you want to create more arenas, buy the premium version of the plugin! Link to the spigot page §ehttps://www.spigotmc.org/resources/devolution-fun-unique-minigame-an-old-mineplex-minigame-frequently-updated-1-13-1-19-3.106731/
 ARENA_STARTS_IN: §6Arena starts in %time% seconds
 ARENA_FULL: §cArena has already reached player limit!
 ARENA_STARTED: §aArena started! Have fun!
